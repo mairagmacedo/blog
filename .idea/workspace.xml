@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PhpIncludePathManager">
+  <component name="ChangeListManager">
+    <list default="true" id="1a83663e-8c51-457f-8e51-df3c4c199a38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
       <path value="$PROJECT_DIR$/vendor/filp/whoops" />
@@ -99,39 +112,79 @@
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
-  <component name="PhpRuntimeConfiguration">
-    <extensions>
-      <extension name="FFI" enabled="true" />
-      <extension name="Parle" enabled="true" />
-      <extension name="SaxonC" enabled="true" />
-      <extension name="ZendCache" enabled="true" />
-      <extension name="com_dotnet" enabled="true" />
-      <extension name="crypto" enabled="true" />
-      <extension name="event" enabled="true" />
-      <extension name="leveldb" enabled="true" />
-      <extension name="lua" enabled="true" />
-      <extension name="mapscript" enabled="true" />
-      <extension name="meminfo" enabled="true" />
-      <extension name="msgpack" enabled="true" />
-      <extension name="parallel" enabled="true" />
-      <extension name="pcov" enabled="true" />
-      <extension name="rdkafka" enabled="true" />
-      <extension name="solr" enabled="true" />
-      <extension name="stomp" enabled="true" />
-      <extension name="sync" enabled="true" />
-      <extension name="uopz" enabled="true" />
-      <extension name="uv" enabled="true" />
-      <extension name="winbinder" enabled="true" />
-      <extension name="xcache" enabled="true" />
-      <extension name="yaf" enabled="true" />
-      <extension name="yar" enabled="true" />
-      <extension name="zookeeper" enabled="true" />
-    </extensions>
+  <component name="ProjectId" id="1ZP8zxuXyEl9mFESI3mqenOpNe9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/phpunit.xml" custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" use_configuration_file="true" />
-    </phpunit_settings>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/GitHub/blog" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a83663e-8c51-457f-8e51-df3c4c199a38" name="Default Changelist" comment="" />
+      <created>1584729636735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584729636735</updated>
+      <workItem from="1584729655590" duration="1685000" />
+      <workItem from="1584731861673" duration="6353000" />
+      <workItem from="1584919864291" duration="2526000" />
+      <workItem from="1584972328456" duration="7123000" />
+      <workItem from="1584986923754" duration="222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="0" key="#CLI_Interpreters" timestamp="1584731953937">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="#CLI_Interpreters/0.0.1280.680@0.0.1280.680" timestamp="1584731953937" />
+    <state x="349" y="0" key="#PHP" timestamp="1584731969750">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="0" key="#PHP/0.0.1280.680@0.0.1280.680" timestamp="1584731969750" />
+    <state x="413" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584738239726">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="413" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1584738239726" />
+    <state x="326" y="0" width="643" height="680" key="#phpunit.xml" timestamp="1584731970906">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="326" y="0" width="643" height="680" key="#phpunit.xml/0.0.1280.680@0.0.1280.680" timestamp="1584731970906" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1584987155144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584987155144" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1584729885518">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584729885518" />
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1584986930571">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584986930571" />
   </component>
 </project>

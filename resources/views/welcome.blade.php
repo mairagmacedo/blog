@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Laravel-MVC</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -70,10 +70,10 @@
                     @auth
                         <a href="{{ url('/home') }}">Home</a>
                     @else
-                        <a href="{{ route('login') }}">Login</a>
+                        <a href="{{ route('login') }}">Entrar</a>
 
                         @if (Route::has('register'))
-                            <a href="{{ route('register') }}">Register</a>
+                            <a href="{{ route('register') }}">Registrar</a>
                         @endif
                     @endauth
                 </div>
@@ -81,14 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Trabalho: PHP - Laravel MVC
+                    Laravel
                 </div>
 
                 <div class="links">
-                    <a href="https://belem.ifpa.edu.br">IFPA Belem</a>
-                   <a href="https://mooc.ifpa.edu.br/">MOOC IFPA </a>
-                   <a href="https://sigaa.ifpa.edu.br/">SIGAA IFPA</a>
-                    
+                    <a href="http://localhost/ep01/public/admin">Administrador</a>
                 </div>
             </div>
         </div>
