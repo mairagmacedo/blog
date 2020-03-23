@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="http://localhost/ep01/public/admin">Administrador</a>
+                    <a href="http://localhost/blog/public/admin">Administrador</a>
                 </div>
             </div>
         </div>

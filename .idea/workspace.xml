@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a83663e-8c51-457f-8e51-df3c4c199a38" name="Default Changelist" comment="" />
+    <list default="true" id="1a83663e-8c51-457f-8e51-df3c4c199a38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,10 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -120,8 +128,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/GitHub/blog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OneDrive/Documents/GitHub/blog" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -151,6 +160,7 @@
       <workItem from="1584919864291" duration="2526000" />
       <workItem from="1584972328456" duration="7123000" />
       <workItem from="1584986923754" duration="222000" />
+      <workItem from="1584994307334" duration="199000" />
     </task>
     <servers />
   </component>
@@ -174,6 +184,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="326" y="0" width="643" height="680" key="#phpunit.xml/0.0.1280.680@0.0.1280.680" timestamp="1584731970906" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1584994554827">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1584994554827" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1584987155144">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -182,9 +196,13 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584729885518" />
-    <state x="341" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1584986930571">
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1584994308684">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584986930571" />
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584994308684" />
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584994373697">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1584994373697" />
   </component>
 </project>
